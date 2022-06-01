@@ -9,9 +9,14 @@ You can view tetris setup with an interface like file explorer.
 ![alt text](https://github.com/himitsuconfidential/tetriseditor/blob/main/image/screenshot.png?raw=true)
 
 ## How to install Tetris editor?
+Method1:  
+- Install python  
+- Download tetris editor beta1.0.py  
+- Run it  
 
-Download tetris editor beta1.0.exe  
-Run it.
+Method2:  
+- Download tetris editor beta1.0.exe  
+- Run it
 
 
 ## How to use Tetris editor?
