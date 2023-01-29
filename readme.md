@@ -11,11 +11,11 @@ You can view tetris setup with an interface like file explorer.
 ## How to install Tetris editor?
 Method1:  
 - Install python  
-- Download tetris editor beta1.0.py  
+- Download tetris editor beta2.0.py  
 - Run it  
 
 Method2:  
-- Download tetris editor beta1.0.exe  
+- Download tetris editor beta2.0.exe  
 - Run it
 
 
